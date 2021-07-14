@@ -1,0 +1,58 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  height: 100%;
+}
+.NAVBAR {
+  height: 10%;
+}
+
+.jumbotron {
+  background-image: src("img/Y1.jpg");
+  height: 85%;
+}
+
+button {
+  height: 85%;
+  color: rgb(245, 245, 245);
+  background-color: #0069d9;
+  border-color: #0062cc;
+  box-shadow: 0 0 0 0.1rem rgba(38, 143, 255, 0.5);
+}
+
+.ENTAH {
+  height: 85%;
+  text-align: justify;
+  padding: 4%;
+}
+
+.SOSMEDIA {
+  padding: 20px;
+}
+
+.rara {
+  height: 5%;
+}
+
+.container {
+  padding: 20px;
+}
+
+/* INDEX 2 */
+.LOREM {
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+/* TUTUP INDEX 2 */
+
+@viewport {
+  width: device-width;
+  zoom: 1;
+  min-zoom: 0.5;
+  max-zoom: 3;
+  user-zoom: fixed;
+}
